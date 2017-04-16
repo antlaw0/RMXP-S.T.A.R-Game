@@ -1,0 +1,150 @@
+[WEAPONS]
+9mm Pistol
+Desert Eagle
+Spaz 12
+M4A1
+.308 Sniper Rifle
+
+
+
+
+Iron Axe
+Steel Axe
+Mythril Axe
+Bronze Knife
+Iron Knife
+Steel Knife
+Mythril Knife
+Bronze Bow
+Iron Bow
+Steel Bow
+Mythril Bow
+Bronze Gun
+Iron Gun
+Steel Gun
+Mythril Gun
+Bronze Mace
+Iron Mace
+Steel Mace
+Mythril Mace
+Bronze Rod
+Iron Rod
+Steel Rod
+Mythril Rod
+[ARMORS]
+Jumpsuit
+Flak Jacket
+Combat Helmet
+Ceramic Trauma Plate
+
+
+
+
+Cotton hat
+Felt Hat
+Magic Hat
+Saint Hat
+Bronze Armor
+Iron Armor
+Steel Armor
+Mythril Armor
+Bronze Plate
+Iron Plate
+Steel Plate
+Mythril Plate
+Cotton Robe
+Felt Robe
+Magic Robe
+Saint Robe
+Ring of Strength
+Ring of Dextality
+Ring of Agility
+Ring of Intelligence
+Ring of Fire
+Ring of Ice
+Ring of Thunder
+Ring of Water
+[ITEMS]
+Med Kit
+Handgun Ammo
+Shotgun Shells
+Rifle Ammo
+Sniper Ammo
+Canteen
+Field Rations
+
+
+
+Holy Hand Grenade
+Frag Grenade
+
+
+
+
+
+
+
+Laser Sight
+
+
+
+
+
+
+
+
+
+
+
+
+[STATES]
+Knockout
+Stun
+Venom
+Dazzle
+Mute
+Confuse
+Sleep
+Paralyze
+Weaken
+Clumsy
+Delay
+Feeble
+Sharp
+Barrier
+Resist
+Blink
+Close Range
+Short Range
+Medium Range
+Long Range
+Very Long Range
+
+[ELEMENTS]
+Fire
+Ice
+Thunder
+Water
+Earth
+Wind
+Light
+Darkness
+vs Undead
+vs Snake
+vs Aquatic
+vs Beast
+vs Goblin
+vs Bird
+vs Devil
+Move
+handgun
+automatic
+shotgun
+sniper
+Thrown
+Medic
+Engineer
+Commander
+
+[GOLD]
+$
