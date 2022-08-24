@@ -4,55 +4,60 @@ Desert Eagle
 Spaz 12
 M4A1
 .308 Sniper Rifle
+M203 Missile Launcher
+PX-33 Pistol
+Ithaca Shotgun
+Ak-47 Assault Rifle
+Sr-33 Sniper Rifle
+Combat Knife
+SMG
+M60
+FIN-29 Stingray
 
 
 
 
-Iron Axe
-Steel Axe
-Mythril Axe
-Bronze Knife
-Iron Knife
-Steel Knife
-Mythril Knife
-Bronze Bow
-Iron Bow
-Steel Bow
-Mythril Bow
-Bronze Gun
-Iron Gun
-Steel Gun
-Mythril Gun
-Bronze Mace
-Iron Mace
-Steel Mace
-Mythril Mace
-Bronze Rod
-Iron Rod
-Steel Rod
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mythril Rod
+M4A1
+M4A1
+Spaz 12
+M4A1
+M4A1
 [ARMORS]
 Jumpsuit
+Flak Vest
+Steel Helmet
+Ceramic Plating
 Flak Jacket
+Combat Armor
+Ceramic Traumma Plate
 Combat Helmet
-Ceramic Trauma Plate
+Nomex Body Armor
+Nomex Flak Vest
+Nomex Flak Jacket
+Night Vision Goggles
+Tactical Headlamp
+Utility Kit
 
 
 
 
-Cotton hat
-Felt Hat
-Magic Hat
-Saint Hat
-Bronze Armor
-Iron Armor
-Steel Armor
-Mythril Armor
-Bronze Plate
-Iron Plate
-Steel Plate
-Mythril Plate
-Cotton Robe
+
+
+
 Felt Robe
 Magic Robe
 Saint Robe
@@ -70,13 +75,16 @@ Handgun Ammo
 Shotgun Shells
 Rifle Ammo
 Sniper Ammo
-Canteen
-Field Rations
-
-
-
+HMG Ammo
+Rocket
+Radio
+Quest Item
+Lockpick
 Holy Hand Grenade
 Frag Grenade
+Flashbang
+Supply Kit
+Tent
 
 
 
@@ -84,7 +92,172 @@ Frag Grenade
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- crafting components ---
 Laser Sight
+Foregrip
+Fullstock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -100,8 +273,8 @@ Laser Sight
 [STATES]
 Knockout
 Stun
-Venom
-Dazzle
+Poison
+Blinded
 Mute
 Confuse
 Sleep
@@ -109,42 +282,145 @@ Paralyze
 Weaken
 Clumsy
 Delay
-Feeble
-Sharp
-Barrier
-Resist
-Blink
+Iron Will
+Battle Hardened
+Steadfast
+Sabotage
+Combat Stims
 Close Range
 Short Range
 Medium Range
 Long Range
 Very Long Range
+Stealth
+Immortal
+melee
+Rally
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+Crippled
+
+
+
+
+overweight
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+Sabotage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [ELEMENTS]
 Fire
-Ice
-Thunder
-Water
-Earth
-Wind
+Shock
+Poison
+Radiation
+Blunt
+Blades
 Light
 Darkness
-vs Undead
-vs Snake
+vs aircraft
+vs ground vehicle
 vs Aquatic
 vs Beast
 vs Goblin
-vs Bird
-vs Devil
+Flying
+Melee
 Move
 handgun
 automatic
 shotgun
 sniper
-Thrown
+Heavy Machinegun
+Missile Launcher
 Medic
 Engineer
 Commander
+Hand-to-hand
+Infiltrator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [GOLD]
 $
