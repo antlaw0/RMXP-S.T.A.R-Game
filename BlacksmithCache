@@ -70,7 +70,7 @@ Ring of Ice
 Ring of Thunder
 Ring of Water
 [ITEMS]
-Med Kit
+First Aid Kit
 Handgun Ammo
 Shotgun Shells
 Rifle Ammo
@@ -85,9 +85,9 @@ Frag Grenade
 Flashbang
 Supply Kit
 Tent
-
-
-
+Med Kit
+Antidote
+Stimulant
 
 
 
@@ -316,7 +316,7 @@ Crippled
 Crippled
 Crippled
 Crippled
-
+outside
 
 
 
