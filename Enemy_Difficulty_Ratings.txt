@@ -1,0 +1,24 @@
+Enemy Difficulty Ratings
+=========================
+1: Grunt with Pistol - Difficulty: 239
+2: Gunslinger - Difficulty: 297
+3: Field Medic - Difficulty: 264
+6: Grunt with Shotgun - Difficulty: 364
+7: Hunter - Difficulty: 417
+8: Stormtrooper - Difficulty: 452
+11: Grunt with SMG - Difficulty: 229
+12: Assassin - Difficulty: 307
+13: Operator - Difficulty: 413
+16: Grunt with Assault Rifle - Difficulty: 205
+17: Infantryman - Difficulty: 358
+18: Veteran with Assault Rifle - Difficulty: 601
+21: Grunt with Sniper Rifle - Difficulty: 315
+22: Sharpshooter - Difficulty: 498
+23: Veteran with Sniper Rifle - Difficulty: 614
+24: SAM Launcher - Difficulty: 721
+25: APC - Difficulty: 720
+26: Tank - Difficulty: 108
+27: Attack  Helicopter - Difficulty: 628
+30: Commander with Assault Rifle - Difficulty: 364
+40: Autoturret - Difficulty: 261
+41: Drone - Difficulty: 317
